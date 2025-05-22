@@ -15,6 +15,12 @@
   max-width: 343px; /**/
 }
 
+@media only screen and (max-width: 374px) {
+  .footer-container {
+    width: 100%;
+  }
+}
+
 .footer-top {
   max-width: 279px;
 }
