@@ -93,6 +93,10 @@
   gap: 12px;
 }
 
+.footer-link:hover {
+  text-shadow: 1px 1px 1px;
+}
+
 .footer-title {
   font-weight: 600;
   color: var(--text-color);
