@@ -17,13 +17,13 @@
   line-height: 1.2;
   letter-spacing: 0.01em;
   font-weight: 400;
-  max-width: 100%; /**/
+  width: 100%; /**/
 }
 
 .testimonial-description {
   text-align: center;
   margin-bottom: 24px;
-  max-width: 100%; /**/
+  width: 100%; /**/
 }
 
 .testimonials-list {
@@ -41,13 +41,14 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  max-width: 100%; /**/
+  width: 100%; /**/
 }
 
 .quote {
   font-size: 22px;
   text-align: center;
   margin: 0 0 32px 0;
+  /* width: 100%;  */
 }
 
 .avatar-wrapper {
