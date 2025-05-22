@@ -6,7 +6,7 @@
   margin: 0 auto;
   padding: 0; /**/
   min-width: 320px;
-  /* max-width: 375px; */
+  max-width: 343px; /**/
 }
 
 .testimonial-title {
@@ -17,20 +17,20 @@
   line-height: 1.2;
   letter-spacing: 0.01em;
   font-weight: 400;
-  width: 100%; /**/
+  max-width: 311px; /**/
 }
 
 .testimonial-description {
   text-align: center;
   margin-bottom: 24px;
-  width: 100%; /**/
+  max-width: 311px; /**/
 }
 
 .testimonials-list {
   display: flex;
   gap: 24px;
   flex-wrap: wrap;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .testimonial-card {
@@ -41,14 +41,13 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  width: 100%; /**/
+  max-width: 343px; /**/
 }
 
 .quote {
   font-size: 22px;
   text-align: center;
   margin: 0 0 32px 0;
-  /* width: 100%;  */
 }
 
 .avatar-wrapper {
@@ -68,13 +67,11 @@
   font-weight: 700;
   text-align: center;
   font-size: 18px;
-  line-height: 1.6;
   font-family: 'Sarabun', sans-serif;
 }
 
 .avatar-status {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
   line-height: 1.5;
   text-align: center;
   font-weight: 400;
