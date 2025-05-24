@@ -94,6 +94,7 @@
   border-radius: 12px;
   padding: 8px 12px;
   background-color: rgba(13, 11, 10, 0.05);
+  outline: none;
 }
 
 .join-form-label-cont {

@@ -49,6 +49,7 @@
   height: 42px;
   background-color: rgba(13, 11, 10, 0.05);
   font-weight: 400;
+  outline: none;
 }
 
 .footer-input::placeholder {
